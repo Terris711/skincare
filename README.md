@@ -1,4 +1,4 @@
-
+Skincare Website
 
 ## Features :
 
@@ -66,11 +66,13 @@ Many more....
 <img width="1413" alt="Screen Shot 2021-07-08 at 11 35 24" src="https://user-images.githubusercontent.com/86718823/124894185-9f7a9000-e005-11eb-89c7-b63a153dfe13.png">
 <img width="1420" alt="Screen Shot 2021-07-08 at 11 36 19" src="https://user-images.githubusercontent.com/86718823/124894198-a3a6ad80-e005-11eb-8d01-a18793cc5c1a.png">
 <img width="1417" alt="Screen Shot 2021-07-08 at 11 36 52" src="https://user-images.githubusercontent.com/86718823/124894216-a6a19e00-e005-11eb-83ed-0f3eb4b527fe.png">
-<img width="1419" alt="Screen Shot 2021-07-08 at 11 37 37" src="https://user-images.githubusercontent.com/86718823/124894229-a903f800-e005-11eb-8773-95bd99a08418.png">
+<img width="1413" alt="Screen Shot 2021-07-08 at 16 04 04" src="https://user-images.githubusercontent.com/86718823/124894835-321b2f00-e006-11eb-9b04-f7ab96994196.png">
+
 <img width="1417" alt="Screen Shot 2021-07-08 at 11 38 23" src="https://user-images.githubusercontent.com/86718823/124894244-ab665200-e005-11eb-8a51-e66eea7045ec.png">
 <img width="1440" alt="Screen Shot 2021-07-08 at 11 38 58" src="https://user-images.githubusercontent.com/86718823/124894254-ad301580-e005-11eb-80f3-1093e97e4d1d.png">
 <img width="1415" alt="Screen Shot 2021-07-08 at 11 34 54 2" src="https://user-images.githubusercontent.com/86718823/124894289-b4efba00-e005-11eb-8919-9b8535275b69.png">
 <img width="1420" alt="Screen Shot 2021-07-08 at 11 36 19 2" src="https://user-images.githubusercontent.com/86718823/124894295-b6b97d80-e005-11eb-9cf5-60f37a8bb0ed.png">
+
 
 ## Set up :
 
