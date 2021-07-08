@@ -1,14 +1,3 @@
-# Advance E-commerce website in  Laravel 7
-
-
-## Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
-
-## Demo video :
-https://youtu.be/c5a_wrvJSJo
-
-## Full tutorial :
-https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s
-
 
 
 ## Features :
@@ -66,25 +55,22 @@ Many more....
 
 
 ## Screenshots :
-![screencapture-e-shop-loc-admin-2020-08-15-15_47_37](https://user-images.githubusercontent.com/29488275/90719413-13b82200-e2d4-11ea-8ca0-f0e5551c4c9d.png)
+<img width="1420" alt="Screen Shot 2021-07-08 at 11 39 05" src="https://user-images.githubusercontent.com/86718823/124894279-b15c3300-e005-11eb-9ebf-56ac17ecc03b.png">
 
-![screencapture-e-shop-loc-admin-category-2020-08-14-19_45_55](https://user-images.githubusercontent.com/29488275/90719470-3813fe80-e2d4-11ea-8f63-e6001855a945.png)
+<img width="1416" alt="Screen Shot 2021-07-08 at 10 27 55" src="https://user-images.githubusercontent.com/86718823/124894134-925da100-e005-11eb-96a4-fd6675cd025b.png">
 
-![screencapture-e-shop-loc-admin-product-2020-08-14-19_44_49](https://user-images.githubusercontent.com/29488275/90719534-61348f00-e2d4-11ea-8a81-409daee0ad94.png)
+<img width="1416" alt="Screen Shot 2021-07-08 at 11 32 30" src="https://user-images.githubusercontent.com/86718823/124894153-9689be80-e005-11eb-97a2-514a635c95ec.png">
 
-![screencapture-e-shop-loc-user-order-show-1-2020-08-14-18_57_06](https://user-images.githubusercontent.com/29488275/90719557-71e50500-e2d4-11ea-97cf-befb1d525643.png)
+<img width="1415" alt="Screen Shot 2021-07-08 at 11 34 54" src="https://user-images.githubusercontent.com/86718823/124894165-9ab5dc00-e005-11eb-8b72-1a8530302aaa.png">
 
-![screencapture-e-shop-loc-user-profile-2020-08-14-18_58_06](https://user-images.githubusercontent.com/29488275/90719563-7a3d4000-e2d4-11ea-9e6a-56caac13b146.png)
-
-![screencapture-e-shop-loc-admin-post-2020-08-14-16_00_07](https://user-images.githubusercontent.com/29488275/90719572-81644e00-e2d4-11ea-9fe5-3325ab427f88.png)
-
-![screencapture-e-shop-loc-2020-08-14-18_19_46](https://user-images.githubusercontent.com/29488275/90719631-a1940d00-e2d4-11ea-89a3-eb36960d687d.png)
-
-![screencapture-e-shop-loc-blog-2020-08-14-18_36_21](https://user-images.githubusercontent.com/29488275/90719648-a8228480-e2d4-11ea-9c57-5ed7aef50e26.png)
-
-![screencapture-e-shop-loc-blog-detail-where-can-i-get-some-2020-08-14-18_43_01](https://user-images.githubusercontent.com/29488275/90719658-ace73880-e2d4-11ea-9cb2-13f2b3b0c4d2.png)
-
-![screencapture-e-shop-loc-product-track-2020-08-14-18_51_07](https://user-images.githubusercontent.com/29488275/90719682-bbcdeb00-e2d4-11ea-8e4e-7d6bfab1c421.png)
+<img width="1413" alt="Screen Shot 2021-07-08 at 11 35 24" src="https://user-images.githubusercontent.com/86718823/124894185-9f7a9000-e005-11eb-89c7-b63a153dfe13.png">
+<img width="1420" alt="Screen Shot 2021-07-08 at 11 36 19" src="https://user-images.githubusercontent.com/86718823/124894198-a3a6ad80-e005-11eb-8d01-a18793cc5c1a.png">
+<img width="1417" alt="Screen Shot 2021-07-08 at 11 36 52" src="https://user-images.githubusercontent.com/86718823/124894216-a6a19e00-e005-11eb-83ed-0f3eb4b527fe.png">
+<img width="1419" alt="Screen Shot 2021-07-08 at 11 37 37" src="https://user-images.githubusercontent.com/86718823/124894229-a903f800-e005-11eb-8773-95bd99a08418.png">
+<img width="1417" alt="Screen Shot 2021-07-08 at 11 38 23" src="https://user-images.githubusercontent.com/86718823/124894244-ab665200-e005-11eb-8a51-e66eea7045ec.png">
+<img width="1440" alt="Screen Shot 2021-07-08 at 11 38 58" src="https://user-images.githubusercontent.com/86718823/124894254-ad301580-e005-11eb-80f3-1093e97e4d1d.png">
+<img width="1415" alt="Screen Shot 2021-07-08 at 11 34 54 2" src="https://user-images.githubusercontent.com/86718823/124894289-b4efba00-e005-11eb-8919-9b8535275b69.png">
+<img width="1420" alt="Screen Shot 2021-07-08 at 11 36 19 2" src="https://user-images.githubusercontent.com/86718823/124894295-b6b97d80-e005-11eb-9cf5-60f37a8bb0ed.png">
 
 ## Set up :
 
